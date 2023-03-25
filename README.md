@@ -16,12 +16,12 @@
 |2주차|CHAPTER 3 람다 표현식|정재엽, 이태균|
 |3주차|CHAPTER 4 스트림 소개|남영준|
 |3주차|CHAPTER 5 스트림 활용|이태균|
-||CHAPTER 6 스트림으로 데이터 수집||
-||CHAPTER 7 병렬 데이터 처리와 성능||
-||CHAPTER 8 컬렉션 API 개선||
-||CHAPTER 9 리팩터링, 테스팅, 디버깅||
-||CHAPTER 10 람다를 이용한 도메인 전용 언어||
-||CHAPTER 11 null 대신 Optional 클래스||
+|4주차|CHAPTER 6 스트림으로 데이터 수집|남영준|
+|4주차|CHAPTER 7 병렬 데이터 처리와 성능|김지영|
+|4주차|CHAPTER 8 컬렉션 API 개선|이태균|
+|5주차|CHAPTER 9 리팩터링, 테스팅, 디버깅||
+|5주차|CHAPTER 10 람다를 이용한 도메인 전용 언어||
+|5주차|CHAPTER 11 null 대신 Optional 클래스||
 ||CHAPTER 12 새로운 날짜와 시간 API||
 ||CHAPTER 13 디폴트 메서드||
 ||CHAPTER 14 자바 모듈 시스템||
