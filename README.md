@@ -19,12 +19,12 @@
 |4주차|CHAPTER 6 스트림으로 데이터 수집|정재엽|
 |4주차|CHAPTER 7 병렬 데이터 처리와 성능|김지영|
 |4주차|CHAPTER 8 컬렉션 API 개선|이태균|
-|5주차|CHAPTER 9 리팩터링, 테스팅, 디버깅||
-|5주차|CHAPTER 10 람다를 이용한 도메인 전용 언어||
-|5주차|CHAPTER 11 null 대신 Optional 클래스||
-||CHAPTER 12 새로운 날짜와 시간 API||
-||CHAPTER 13 디폴트 메서드||
-||CHAPTER 14 자바 모듈 시스템||
+|5주차|CHAPTER 9 리팩터링, 테스팅, 디버깅|남영준|
+|5주차|CHAPTER 10 람다를 이용한 도메인 전용 언어|김지영|
+|5주차|CHAPTER 11 null 대신 Optional 클래스|이태균|
+|6주차|CHAPTER 12 새로운 날짜와 시간 API||
+|6주차|CHAPTER 13 디폴트 메서드||
+|6주차|CHAPTER 14 자바 모듈 시스템||
 ||CHAPTER 15 CompletableFuture와 리액티브 프로그래밍 컨셉의 기초||
 ||CHAPTER 16 CompletableFuture : 안정적 비동기 프로그래밍||
 ||CHAPTER 17 리액티브 프로그래밍||
